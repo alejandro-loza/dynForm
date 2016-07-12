@@ -1,0 +1,19 @@
+{
+  "name": "dynForm",
+  "authors": [
+    "pinky <orochi_alex@hotmail.com>"
+  ],
+  "description": "dynamic form",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+	"**/.*",
+	"node_modules",
+	"components"
+  ],
+  "dependencies": {
+	"angular": "~1.0.6"
+  }
+}
